@@ -1,5 +1,3 @@
-package com.ohyr.boj.problem2669;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
