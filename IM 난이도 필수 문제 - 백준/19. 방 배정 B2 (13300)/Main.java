@@ -20,7 +20,7 @@ public class Main {
 			int s = Integer.parseInt(st.nextToken());
 			int y = Integer.parseInt(st.nextToken());
 			
-			if(s == 0) {
+			if(s == 1) {
 				male[y]++;
 			}else {
 				female[y]++;
