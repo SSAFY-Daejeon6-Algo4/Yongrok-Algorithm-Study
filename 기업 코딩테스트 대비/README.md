@@ -12,3 +12,9 @@
 - [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
 - [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
 - [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
+
+### 0912
+
+- [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+- [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+- [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
