@@ -24,3 +24,12 @@
 - [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 - [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
 - [5주차 모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
+
+### 0923
+
+- [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
+- [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+- [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+- [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+- [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+- [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
