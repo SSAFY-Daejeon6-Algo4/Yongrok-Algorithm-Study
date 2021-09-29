@@ -33,3 +33,9 @@
 - [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
 - [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
 - [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
+
+### 0929
+
+- [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+- [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+- [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
