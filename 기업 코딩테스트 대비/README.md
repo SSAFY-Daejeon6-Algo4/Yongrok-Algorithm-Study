@@ -45,3 +45,8 @@
 - [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)
 - [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+
+### 1006
+
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+- [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
