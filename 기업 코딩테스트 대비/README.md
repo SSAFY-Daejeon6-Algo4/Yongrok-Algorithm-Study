@@ -50,3 +50,8 @@
 
 - [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 - [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
+
+### 1009
+
+- [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
+- [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
