@@ -55,3 +55,9 @@
 
 - [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
 - [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+
+### 1013
+
+- [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
+- [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
+- [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
