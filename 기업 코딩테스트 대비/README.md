@@ -61,3 +61,8 @@
 - [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 - [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
 - [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
+
+### 1017
+
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+- [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
