@@ -76,3 +76,8 @@
 
 - [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
+
+### 1031
+
+- [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
+- [12주차 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
