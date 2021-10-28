@@ -71,3 +71,8 @@
 
 - [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+
+### 1027
+
+- [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
