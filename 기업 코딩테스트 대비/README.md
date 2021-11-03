@@ -81,3 +81,9 @@
 
 - [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
 - [12주차 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
+
+### 1107
+
+- [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
+- [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
+- [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
