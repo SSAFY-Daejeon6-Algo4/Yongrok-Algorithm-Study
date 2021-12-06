@@ -96,3 +96,9 @@
 
 - [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)
 - [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)
+
+### 1205
+
+- [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+- [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
+- [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
