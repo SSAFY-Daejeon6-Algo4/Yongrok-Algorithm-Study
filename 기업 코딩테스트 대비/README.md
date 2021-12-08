@@ -102,3 +102,8 @@
 - [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
 - [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
 - [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
+
+### 1208
+
+- [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)
+- [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
