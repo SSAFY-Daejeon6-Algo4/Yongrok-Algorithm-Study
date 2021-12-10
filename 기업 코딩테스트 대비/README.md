@@ -107,3 +107,8 @@
 
 - [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)
 - [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
+
+### 1212
+
+- [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
+- [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994)
