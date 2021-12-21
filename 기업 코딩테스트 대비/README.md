@@ -122,3 +122,8 @@
 
 - [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 - [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
+
+### 1222
+
+- [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
+- [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
