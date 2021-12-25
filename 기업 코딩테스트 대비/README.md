@@ -127,3 +127,8 @@
 
 - [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
 - [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
+
+### 1226
+
+- [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
+- [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
