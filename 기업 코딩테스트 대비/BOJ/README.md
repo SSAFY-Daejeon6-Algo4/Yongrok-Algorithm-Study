@@ -11,3 +11,8 @@
 
 - [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
 - [DSLR](https://www.acmicpc.net/problem/9019)
+
+### 0119
+
+- [적록색약](https://www.acmicpc.net/problem/10026)
+- [테트로미노](https://www.acmicpc.net/problem/14500)
