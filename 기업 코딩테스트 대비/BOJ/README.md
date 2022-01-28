@@ -16,3 +16,7 @@
 
 - [적록색약](https://www.acmicpc.net/problem/10026)
 - [테트로미노](https://www.acmicpc.net/problem/14500)
+
+### 0202
+
+- [아기상어](https://www.acmicpc.net/problem/16236)
