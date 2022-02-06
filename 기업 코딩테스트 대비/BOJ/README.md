@@ -20,3 +20,7 @@
 ### 0202
 
 - [아기상어](https://www.acmicpc.net/problem/16236)
+
+### 0206
+
+- [거짓말](https://www.acmicpc.net/problem/1043)
