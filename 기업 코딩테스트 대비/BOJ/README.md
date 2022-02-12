@@ -24,3 +24,7 @@
 ### 0206
 
 - [거짓말](https://www.acmicpc.net/problem/1043)
+
+### 0213
+
+- [트리의 지름](https://www.acmicpc.net/problem/1167)
